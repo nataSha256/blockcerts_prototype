@@ -4,10 +4,10 @@
         "https://w3id.org/blockcerts/3.0"
     ],
     "type": "Profile",
-    "id": "https://nataSha256.github.io/blockcerts_prototype/issuer.json",
+    "id": "https://raw.githubusercontent.com/nataSha256/blockcerts_prototype/main/issuer.json",
     "name": "Nazarbayev University",
     "url": "https://github.com/nataSha256",
-    "introductionURL": "https://requestinspector.com/inspect/01ft5s3p625yhe046betsdvve5",
+    "introductionURL": "https://github.com/nataSha256/blockcerts_prototype/",
     "publicKey": [
         {
             "id": "ecdsa-koblitz-pubkey:mnYEbg4uy4KSi4JCc7eYuprHEWX5hcBuk4",
