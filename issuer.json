@@ -6,15 +6,14 @@
     "type": "Profile",
     "id": "https://raw.githubusercontent.com/nataSha256/blockcerts_prototype/main/issuer.json",
     "name": "Nazarbayev University",
-    "url": "https://github.com/nataSha256",
+    "url": "https://github.com/nataSha256/blockcerts_prototype",
     "introductionURL": "https://github.com/nataSha256/blockcerts_prototype/",
     "publicKey": [
         {
-            "id": "ecdsa-koblitz-pubkey:mnYEbg4uy4KSi4JCc7eYuprHEWX5hcBuk4",
+            "id": "02458A045BD60ED2D970C47D19AF65A6A74C32C2B05D45FF9479E89143755D8E44",
             "created": "2021-11-20T15:52:57.617381+00:00"
         }
     ],
-    "revocationList": "https://nataSha256.github.io/blockcerts_prototype/revocation-list.json",
-    "email": "natalya.makarenko@nu.edu.kz",
-    "image": "data:image/png;base64,"
+    "revocationList": "https://raw.githubusercontent.com/nataSha256/blockcerts_prototype/main/revocation-list.json",
+    "email": "natalya.makarenko@nu.edu.kz"
 }
