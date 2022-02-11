@@ -10,7 +10,7 @@
     "introductionURL": "https://github.com/nataSha256/blockcerts_prototype/",
     "publicKey": [
         {
-            "id": "02458A045BD60ED2D970C47D19AF65A6A74C32C2B05D45FF9479E89143755D8E44",
+            "id": "ecdsa-koblitz-pubkey:mqpdHp1M1S5YJBF31eBd1zwA331DZQfEcz",
             "created": "2021-11-20T15:52:57.617381+00:00"
         }
     ],
