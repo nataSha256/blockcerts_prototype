@@ -1,7 +1,7 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
-  "id": "https://w3id.org/blockcerts/samples/3.0/revocation-list-blockcerts.json",
+  "id": "https://raw.githubusercontent.com/nataSha256/blockcerts_prototype/main/revocation-list.json",
   "type": "RevocationList",
-  "issuer": "https://w3id.org/blockcerts/samples/3.0/issuer-blockcerts.json",
+  "issuer": "https://raw.githubusercontent.com/nataSha256/blockcerts_prototype/main/issuer.json",
   "revokedAssertions": []
 }
