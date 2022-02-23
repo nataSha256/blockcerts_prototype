@@ -6,7 +6,7 @@
     "type": "Profile",
     "id": "https://raw.githubusercontent.com/nataSha256/blockcerts_prototype/main/issuer.json",
     "name": "Nazarbayev University",
-    "url": "https://github.com/nataSha256/blockcerts_prototype",
+    "url": "https://github.com/nataSha256/blockcerts_prototype/data/",
     "introductionURL": "https://github.com/nataSha256/blockcerts_prototype/",
     "publicKey": [
         {
