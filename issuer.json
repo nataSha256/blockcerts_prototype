@@ -7,7 +7,7 @@
     "id": "https://raw.githubusercontent.com/nataSha256/blockcerts_prototype/main/issuer.json",
     "name": "Nazarbayev University",
     "url": "https://github.com/nataSha256/blockcerts_prototype/data/",
-    "introductionURL": "https://github.com/nataSha256/blockcerts_prototype/data",
+    "introductionURL": "https://github.com/nataSha256/blockcerts_prototype/data/",
     "publicKey": [
         {
             "id": "ecdsa-koblitz-pubkey:mqpdHp1M1S5YJBF31eBd1zwA331DZQfEcz",
